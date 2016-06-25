@@ -1,0 +1,11 @@
+logs
+*.log
+config/default.json
+pids
+*.jshintrc
+node_modules/*
+public/*
+.npm
+*.dat
+*.swp
+*.swo
